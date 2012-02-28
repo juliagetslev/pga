@@ -1,0 +1,15 @@
+[submodule "resources/ZendFramework2"]
+	path = resources/ZendFramework2
+	url = git://github.com/zendframework/zf2.git
+[submodule "resources/Doctrine2"]
+	path = resources/Doctrine2
+	url = git://github.com/doctrine/doctrine2.git
+[submodule "resources/Jquery"]
+	path = resources/Jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "resources/Jquery-ui"]
+	path = resources/Jquery-ui
+	url = git://github.com/jquery/jquery-ui.git
+[submodule "resources/Jquery-mobile"]
+	path = resources/Jquery-mobile
+	url = git://github.com/jquery/jquery-mobile.git
