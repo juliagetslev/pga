@@ -1,5 +1,6 @@
-library/Doctrine/*
-library/Zend/*
-.settings/*
+library/Doctrine/
+library/Zend/
+build/
+.settings/
 .buildpath
 .project
