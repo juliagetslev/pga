@@ -1,6 +1,5 @@
 library/Doctrine/
 library/Zend/
-build/
 .settings/
 .buildpath
 .project
