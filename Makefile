@@ -1,14 +1,19 @@
+.PHONY : init update clean clean-build clean-dev build build-dev
+
 init :
 	git submodule update --init --recursive
 
 update : 
 	git submodule update --recursive
 
-clean :
-	rm -r build/*
+clean : clean-build clean-dev
 
-build-dev :
-	
+clean-build :
+	rm -rf build/*
+
+clean-dev :
 
 build :
-
+	
+build-dev :
+	
